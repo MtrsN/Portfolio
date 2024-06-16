@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of projects that showcase my expertise and experience in Data Science and Artificial Intelligence. Each project highlights different aspects of the field, from data visualization and analysis to machine learning and AI. I am continuously working on new projects to enhance my skills and expand my knowledge. Explore my work and feel free to connect with me for any collaboration or inquiries.
+Welcome to my portfolio! Here, you'll find a collection of projects that showcase my experience in Data Science and Artificial Intelligence. Each project highlights different aspects of the field, from data visualization and analysis to machine learning and AI. I am continuously working on new projects. Explore my work and feel free to connect with me for any collaboration or inquiries.
 
 ## Projects
 
