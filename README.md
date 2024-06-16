@@ -8,6 +8,10 @@ Welcome to my portfolio! Here, you'll find a collection of projects that showcas
 
 This project involves creating an interactive dashboard using Power BI to visualize Airbnb data for the city of Porto, Portugal. The dashboard provides insights into various aspects such as pricing trends, popular neighborhoods, and availability.
 
+### [Hyperparameter Tuning with MS-EPSO](projects/hyperparameters)
+
+In this project, I applied the Maximum Search Limitations Evolutionary Particle Swarm Optimization (MS-EPSO) algorithm for hyperparameter tuning of the XGBoost model. The MS-EPSO algorithm successfully optimized several hyperparameters, resulting in a model that achieved an accuracy of 90.43% on the test set.
+
 ## Connect with me
 
 You can reach out and connect with me on the following platforms:
