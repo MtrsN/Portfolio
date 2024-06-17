@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+catboost_info/
+playground-series-s4e6/
+
 # Distribution / packaging
 .Python
 build/

@@ -12,6 +12,10 @@ This project involves creating an interactive dashboard using Power BI to visual
 
 In this project, I applied the Maximum Search Limitations Evolutionary Particle Swarm Optimization (MS-EPSO) algorithm for hyperparameter tuning of the XGBoost model. The MS-EPSO algorithm successfully optimized several hyperparameters, resulting in a model that achieved an accuracy of 90.43% on the test set.
 
+### [Classification with an Academic Success Dataset](projects/academic_success)
+
+This project is part of my current solution for the Kaggle competition titled "Classification with an Academic Success Dataset." In this notebook, I present an approach based on data processing, feature engineering, model selection and evaluation.
+
 ## Connect with me
 
 You can reach out and connect with me on the following platforms:
