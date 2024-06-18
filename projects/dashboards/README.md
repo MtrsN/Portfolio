@@ -7,3 +7,6 @@ This section showcases various interactive dashboards created using Power BI. Ea
 ### [Pet Shop Dashboard](petshop)
 
 This dashboard visualizes various metrics for a pet shop, including sales, revenue, filters and other insights. Also provides an interactive way to explore and analyze the data, helping to make informed business decisions.
+
+#### Screenshot
+![Pet Shop](petshop/petshop.png)
