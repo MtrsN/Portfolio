@@ -4,10 +4,14 @@ This section showcases various interactive dashboards created using Power BI. Ea
 
 ## Projects
 
+### [Airbnb](airbnb)
+
+This project involves creating an interactive dashboard using Power BI to visualize Airbnb data for the city of Porto, Portugal. The dashboard provides insights into various aspects such as pricing trends, popular neighborhoods, and availability.
+
+![Dashboard Overview](airbnb/airbnb.jpg)
+
 ### [Pet Shop Dashboard](petshop)
 
 This dashboard visualizes various metrics for a pet shop, including sales, revenue, filters and other insights. Also provides an interactive way to explore and analyze the data, helping to make informed business decisions.
-
-#### Screenshot
 
 ![Pet Shop](petshop/petshop.png)
